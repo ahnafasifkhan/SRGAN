@@ -18,28 +18,30 @@ For training: Good GPU, I trained my model on NVIDIA Tesla P100
 # References:
 
 Paper:
-Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network: https://arxiv.org/pdf/1609.04802.pdf
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network: https://arxiv.org/pdf/1609.04802.pdf,
 Perceptual Losses for Real-Time Style Transfer and Super-Resolution: https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf
 
 Projects doing the same thing:
-https://github.com/MathiasGruber/SRGAN-Keras
-https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks
-https://github.com/eriklindernoren/Keras-GAN/tree/master/srgan
-https://github.com/brade31919/SRGAN-tensorflow
+https://github.com/MathiasGruber/SRGAN-Keras,
+https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks,
+https://github.com/eriklindernoren/Keras-GAN/tree/master/srgan,
+https://github.com/brade31919/SRGAN-tensorflow,
 https://github.com/tensorlayer/srgan
  
 Help on GANS:
-https://github.com/eriklindernoren/Keras-GAN (Various GANS implemented in Keras)
-https://github.com/JGuillaumin/SuperResGAN-keras
+https://github.com/eriklindernoren/Keras-GAN (Various GANS implemented in Keras),
+https://github.com/JGuillaumin/SuperResGAN-keras,
 https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/
 
 VGG loss help:
 https://blog.sicara.com/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5
 
 SubpixelConv2D(Deconvolution) help:
-Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network: https://arxiv.org/abs/1609.05158
+Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network: https://arxiv.org/abs/1609.05158,
 https://github.com/twairball/keras-subpixel-conv
 
 Improved Techniques for Training GANs:
 https://arxiv.org/abs/1606.03498
+
+references copied from https://github.com/deepak112/Keras-SRGAN
 
