@@ -7,13 +7,12 @@ COCO dataset 2017, being reshaped to 320x240 was used for training, but not excl
 This inspired and adapted from the medium article https://medium.com/@birla.deepak26/single-image-super-resolution-using-gans-keras-aca310f33112, and the mentioned git repo in the article, which I tried to compile to a Jupyter notebook.
 
 You will need the following to run the above:
-Python 3.5.4
-tensorflow 1.11.0
-keras 2.2.4
-numpy 1.10.4
+Python 3.5.4,
+tensorflow 1.11.0,
+keras 2.2.4,
+numpy 1.10.4,
 matplotlib, skimage, scipy
 
-For training: Good GPU, I trained my model on NVIDIA Tesla P100
 
 # References:
 
