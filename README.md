@@ -1,6 +1,4 @@
-<h4 align="center">
-Single Image Super-Resolution Using a Generative Adversarial Network.
-</h4>
+## Single Image Super-Resolution Using a Generative Adversarial Network.
 
 ## Project Overview
 Single Image Super-Resolution Using a Generative Adversarial Network.
